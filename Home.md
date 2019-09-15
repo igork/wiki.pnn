@@ -4,4 +4,4 @@
 
 # PHP send notification to Android Java using JS
 ![php_2_java](https://github.com/igork/pn_notification/blob/master/app/src/main/assets/php_2_js_2_adroid_sent.png)
-![php_2_java](https://github.com/igork/pn_notification/blob/master/app/src/main/assets/php_2_js_2_adroid.png)
+![php_2_java](https://github.com/igork/pn_notification/blob/master/app/src/main/assets/php_2_js_2_android.png)
