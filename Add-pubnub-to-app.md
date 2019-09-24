@@ -1,7 +1,7 @@
 to manifest     
-<uses-permission android:name="android.permission.INTERNET" />
+    uses-permission android:name="android.permission.INTERNET" 
 
-to project build.gradle
+to project build.gradle <br />
 dependencies {
     ...
     implementation group: 'com.pubnub', name: 'pubnub-gson', version: '4.+' 
