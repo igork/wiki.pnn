@@ -1,4 +1,5 @@
-to manifest     <uses-permission android:name="android.permission.INTERNET" />
+to manifest     
+<uses-permission android:name="android.permission.INTERNET" />
 
 to project build.gradle
 dependencies {
